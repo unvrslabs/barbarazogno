@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Staging folder for files to upload manually to Supabase Storage
+.upload-to-storage/
