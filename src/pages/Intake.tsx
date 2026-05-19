@@ -69,7 +69,7 @@ export default function Intake() {
     setAttachments([]);
     setIsLoading(true);
 
-    // Simulate AI response (will be replaced with actual Lovable AI integration)
+    // Simulate AI response (placeholder until AI integration is wired up)
     setTimeout(() => {
       const aiResponse: Message = {
         id: (Date.now() + 1).toString(),
