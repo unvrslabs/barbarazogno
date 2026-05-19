@@ -255,6 +255,11 @@ const translations: Record<Language, Record<string, string>> = {
     "publications.book.negotiation.desc": "Manuale pratico per una negoziazione di successo, dedicato ad avvocati d'azienda e in-house counsel. Niente teoria: solo strumenti operativi per ottenere risultati al tavolo negoziale, dalla preparazione alla chiusura sotto pressione.",
     "publications.book.rd.title": "Contratto di Ricerca e Sviluppo",
     "publications.book.rd.desc": "Guida pratica per professionisti legali e operatori economici nei settori hi-tech e IoT. Analizza le tre principali categorie di R&D contracts (puro, misto, T&M), con clausole modello, gestione IP e cautele negoziali.",
+    "publications.book.supply.title": "I Contratti di Fornitura e Distribuzione",
+    "publications.book.supply.desc": "Manuale operativo sulle due architetture giuridiche che reggono il commercio B2B: contratto di fornitura e contratto di distribuzione. Analisi delle clausole-chiave (specifiche tecniche, ordini, Incoterms® 2020, revisione prezzi, garanzie, antitrust, EOL/PCN/LTBO) con testi pronti all'uso e cautele negoziali dalla prospettiva di entrambe le parti.",
+    "publications.selectEdition": "Edizione",
+    "publications.italianEdition": "Italiano",
+    "publications.englishEdition": "Inglese",
   },
   en: {
     // Navbar
@@ -499,6 +504,11 @@ const translations: Record<Language, Record<string, string>> = {
     "publications.book.negotiation.desc": "A practical guide to successful negotiation for lawyers and in-house counsel. Built on twenty-five years of international negotiation experience, this is a field manual — not a theoretical textbook — focused on real contracts, real deals, and real pressure.",
     "publications.book.rd.title": "Research & Development Contract",
     "publications.book.rd.desc": "A practical guide for legal professionals and business operators in hi-tech and IoT sectors. Covers the three main R&D contract categories (Pure, Mixed Development & Supply, Time & Material) with model clauses, IP management, and key negotiation safeguards.",
+    "publications.book.supply.title": "Supply and Distribution Contracts",
+    "publications.book.supply.desc": "A practical field guide to the two contractual pillars of B2B technology: supply and distribution contracts. Across eight chapters, it covers the clauses that matter most — specifications, term & renewal, orders, price revision, Incoterms® 2020, antitrust-compliant distribution, warranties, limitation of liability, and lifecycle clauses (EOL, PCN, LTBO, escrow) — with model-clause language and party-specific Recommended Precautions.",
+    "publications.selectEdition": "Edition",
+    "publications.italianEdition": "Italian",
+    "publications.englishEdition": "English",
   },
 };
 
